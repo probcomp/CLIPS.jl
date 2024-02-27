@@ -1,0 +1,11 @@
+(down human)
+(wait robot)
+(down human)
+(wait robot)
+(pickup human key1)
+(wait robot)
+(right human)
+(wait robot)
+(right human)
+(wait robot)
+; Can you come and get this blue door?

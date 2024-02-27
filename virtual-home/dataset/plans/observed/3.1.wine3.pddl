@@ -1,0 +1,10 @@
+(move actor table1 fridge1)
+(wait helper)
+(grab actor wine1 fridge1)
+(wait helper)
+(move actor fridge1 cabinet3)
+(wait helper)
+(grab actor wineglass1 cabinet3)
+; Can you get two more glasses?
+(move helper table1 cabinet3)
+(move actor cabinet3 table1)

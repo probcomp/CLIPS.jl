@@ -1,0 +1,15 @@
+(move actor table1 cabinet2)
+(wait helper)
+(grab actor plate1 cabinet2)
+(wait helper)
+(grab actor plate2 cabinet2)
+(wait helper)
+(move actor cabinet2 cabinet4)
+(wait helper)
+(grab actor cutleryfork1 cabinet4)
+; Can you get the knives?
+(wait helper)
+(grab actor cutleryfork2 cabinet4)
+(move helper table1 cabinet4)
+(move actor cabinet4 table1)
+; Can you get the bowls too?

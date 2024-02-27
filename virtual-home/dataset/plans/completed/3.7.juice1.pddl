@@ -1,0 +1,7 @@
+(move helper table1 fridge1)
+(wait actor)
+(grab helper juice1 fridge1)
+(wait actor)
+(move helper fridge1 table1)
+(wait actor)
+(put helper juice1 table1)

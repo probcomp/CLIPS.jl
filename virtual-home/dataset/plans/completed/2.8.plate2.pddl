@@ -1,0 +1,7 @@
+(move helper table1 cabinet2)
+(move actor cabinet2 table1)
+(grab helper plate2 cabinet2)
+(put actor plate1 table1)
+(move helper cabinet2 table1)
+(wait actor)
+(put helper plate2 table1)

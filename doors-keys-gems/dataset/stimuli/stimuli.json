@@ -1,0 +1,614 @@
+[
+    {
+        "name": "1.1.keys",
+        "images": [
+            "1.1.keys_0_init.gif",
+            "1.1.keys_1_observed.gif",
+            "1.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you pass me the red key?",
+        "timesteps": 7,
+        "option_count": 2,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "name": "2.1.keys",
+        "images": [
+            "2.1.keys_0_init.gif",
+            "2.1.keys_1_observed.gif",
+            "2.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you pass me the red key?",
+        "timesteps": 10,
+        "option_count": 4,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "name": "2.2.keys",
+        "images": [
+            "2.2.keys_0_init.gif",
+            "2.2.keys_1_observed.gif",
+            "2.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you hand me that key?",
+        "timesteps": 18,
+        "option_count": 4,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "name": "3.1.keys",
+        "images": [
+            "3.1.keys_0_init.gif",
+            "3.1.keys_1_observed.gif",
+            "3.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you pass me the red keys?",
+        "timesteps": 10,
+        "option_count": 5,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "name": "3.2.keys",
+        "images": [
+            "3.2.keys_0_init.gif",
+            "3.2.keys_1_observed.gif",
+            "3.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Give me a red key for this door?",
+        "timesteps": 10,
+        "option_count": 5,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                4,
+                5
+            ]
+        ]
+    },
+    {
+        "name": "3.3.keys",
+        "images": [
+            "3.3.keys_0_init.gif",
+            "3.3.keys_1_observed.gif",
+            "3.3.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I need a key for this yellow door.",
+        "timesteps": 4,
+        "option_count": 5,
+        "goal": [
+            2
+        ],
+        "best_option": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "name": "4.1.keys",
+        "images": [
+            "4.1.keys_0_init.gif",
+            "4.1.keys_1_observed.gif",
+            "4.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you pass me the red keys?",
+        "timesteps": 8,
+        "option_count": 6,
+        "goal": [
+            2
+        ],
+        "best_option": [
+            [
+                3,
+                4
+            ]
+        ]
+    },
+    {
+        "name": "4.2.keys",
+        "images": [
+            "4.2.keys_0_init.gif",
+            "4.2.keys_1_observed.gif",
+            "4.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can I have the blue keys?",
+        "timesteps": 8,
+        "option_count": 6,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                5,
+                6
+            ]
+        ]
+    },
+    {
+        "name": "5.1.keys",
+        "images": [
+            "5.1.keys_0_init.gif",
+            "5.1.keys_1_observed.gif",
+            "5.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you pass me the blue key?",
+        "timesteps": 4,
+        "option_count": 3,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "name": "6.1.keys",
+        "images": [
+            "6.1.keys_0_init.gif",
+            "6.1.keys_1_observed.gif",
+            "6.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I'm going for the red key, can you get the yellow key?",
+        "timesteps": 3,
+        "option_count": 4,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "name": "6.2.keys",
+        "images": [
+            "6.2.keys_0_init.gif",
+            "6.2.keys_1_observed.gif",
+            "6.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "On my way to pick up the blue key, can you find a yellow key?",
+        "timesteps": 3,
+        "option_count": 4,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "name": "7.1.keys",
+        "images": [
+            "7.1.keys_0_init.gif",
+            "7.1.keys_1_observed.gif",
+            "7.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I'm picking up the yellow key. Can you get a red key?",
+        "timesteps": 6,
+        "option_count": 5,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "name": "8.1.keys",
+        "images": [
+            "8.1.keys_0_init.gif",
+            "8.1.keys_1_observed.gif",
+            "8.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I'll get the blue key. Can you pick up a red key?",
+        "timesteps": 4,
+        "option_count": 5,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                5
+            ]
+        ]
+    },
+    {
+        "name": "8b.2.keys",
+        "images": [
+            "8b.2.keys_0_init.gif",
+            "8b.2.keys_1_observed.gif",
+            "8b.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I will pick up the red key. Can you get a blue one?",
+        "timesteps": 4,
+        "option_count": 5,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "name": "9.1.keys",
+        "images": [
+            "9.1.keys_0_init.gif",
+            "9.1.keys_1_observed.gif",
+            "9.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you go get the red key?",
+        "timesteps": 8,
+        "option_count": 3,
+        "goal": [
+            2
+        ],
+        "best_option": [
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "name": "10.1.keys",
+        "images": [
+            "10.1.keys_0_init.gif",
+            "10.1.keys_1_observed.gif",
+            "10.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I will pick up this red key. Can you find a yellow one?",
+        "timesteps": 6,
+        "option_count": 4,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "name": "10b.2.keys",
+        "images": [
+            "10b.2.keys_0_init.gif",
+            "10b.2.keys_1_observed.gif",
+            "10b.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "I will pick up this blue key. Can you find a yellow one?",
+        "timesteps": 6,
+        "option_count": 4,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "name": "11.1.keys",
+        "images": [
+            "11.1.keys_0_init.gif",
+            "11.1.keys_1_observed.gif",
+            "11.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you get the key for this door?",
+        "timesteps": 12,
+        "option_count": 3,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "name": "11.2.keys",
+        "images": [
+            "11.2.keys_0_init.gif",
+            "11.2.keys_1_observed.gif",
+            "11.2.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you get me a key for this door?",
+        "timesteps": 8,
+        "option_count": 3,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "name": "12.1.doors",
+        "images": [
+            "12.1.doors_0_init.gif",
+            "12.1.doors_1_observed.gif",
+            "12.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you come and unlock this door?",
+        "timesteps": 8,
+        "option_count": 3,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "name": "12.2.doors",
+        "images": [
+            "12.2.doors_0_init.gif",
+            "12.2.doors_1_observed.gif",
+            "12.2.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you go and unlock that door?",
+        "timesteps": 8,
+        "option_count": 3,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                1
+            ]
+        ]
+    },
+    {
+        "name": "13.1.doors",
+        "images": [
+            "13.1.doors_0_init.gif",
+            "13.1.doors_1_observed.gif",
+            "13.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you open the blue door?",
+        "timesteps": 10,
+        "option_count": 5,
+        "goal": [
+            2
+        ],
+        "best_option": [
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "name": "13.2.doors",
+        "images": [
+            "13.2.doors_0_init.gif",
+            "13.2.doors_1_observed.gif",
+            "13.2.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you help me unlock the blue door there?",
+        "timesteps": 16,
+        "option_count": 5,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "name": "14.1.doors",
+        "images": [
+            "14.1.doors_0_init.gif",
+            "14.1.doors_1_observed.gif",
+            "14.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "I'm picking up the red key. Can you get the blue door?",
+        "timesteps": 0,
+        "option_count": 5,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                4
+            ]
+        ]
+    },
+    {
+        "name": "15.1.doors",
+        "images": [
+            "15.1.doors_0_init.gif",
+            "15.1.doors_1_observed.gif",
+            "15.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you open the red door there?",
+        "timesteps": 0,
+        "option_count": 3,
+        "goal": [
+            3
+        ],
+        "best_option": [
+            [
+                3
+            ]
+        ]
+    },
+    {
+        "name": "16.1.doors",
+        "images": [
+            "16.1.doors_0_init.gif",
+            "16.1.doors_1_observed.gif",
+            "16.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you get the blue door there? I'll pick up the key for the red door.",
+        "timesteps": 0,
+        "option_count": 3,
+        "goal": [
+            2
+        ],
+        "best_option": [
+            [
+                2
+            ]
+        ]
+    },
+    {
+        "name": "17.1.doors",
+        "images": [
+            "17.1.doors_0_init.gif",
+            "17.1.doors_1_observed.gif",
+            "17.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you come and get this red door?",
+        "timesteps": 6,
+        "option_count": 3,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "name": "18.1.doors",
+        "images": [
+            "18.1.doors_0_init.gif",
+            "18.1.doors_1_observed.gif",
+            "18.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you unlock this red door?",
+        "timesteps": 4,
+        "option_count": 4,
+        "goal": [
+            0
+        ],
+        "best_option": [
+            [
+                1,
+                2
+            ]
+        ]
+    },
+    {
+        "name": "19.1.keys",
+        "images": [
+            "19.1.keys_0_init.gif",
+            "19.1.keys_1_observed.gif",
+            "19.1.keys_2_completed.gif"
+        ],
+        "type": "keys",
+        "utterance": "Can you pass me the blue key?",
+        "timesteps": 4,
+        "option_count": 3,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                2,
+                3
+            ]
+        ]
+    },
+    {
+        "name": "20.1.doors",
+        "images": [
+            "20.1.doors_0_init.gif",
+            "20.1.doors_1_observed.gif",
+            "20.1.doors_2_completed.gif"
+        ],
+        "type": "doors",
+        "utterance": "Can you come and get this blue door?",
+        "timesteps": 10,
+        "option_count": 4,
+        "goal": [
+            1
+        ],
+        "best_option": [
+            [
+                2
+            ]
+        ]
+    }
+]

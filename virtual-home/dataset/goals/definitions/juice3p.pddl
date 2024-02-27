@@ -1,0 +1,12 @@
+(and 
+  (placed waterglass1 table1)
+  (placed waterglass2 table1)
+  (placed waterglass3 table1)
+  (placed cutleryfork1 table1)
+  (placed cutleryfork2 table1)
+  (placed cutleryfork3 table1)
+  (placed cupcake1 table1)
+  (placed cupcake2 table1)
+  (placed cupcake3 table1)
+  (placed juice1 table1)
+)

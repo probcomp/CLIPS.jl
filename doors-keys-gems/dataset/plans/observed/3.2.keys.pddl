@@ -1,0 +1,11 @@
+(up human)
+(wait robot)
+(up human)
+(wait robot)
+(up human)
+(wait robot)
+(up human)
+(wait robot)
+(up human)
+(wait robot)
+; Give me a red key for this door?

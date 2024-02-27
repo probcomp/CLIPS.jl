@@ -1,0 +1,6 @@
+salad_veggie
+salad_chicken
+salad_potato
+stew_chicken
+stew_salmon
+stew_potato
