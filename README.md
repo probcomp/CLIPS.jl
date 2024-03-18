@@ -30,6 +30,12 @@ instantiate
 
 To use GenGPT3.jl, add your OpenAI API key as an environment variable named `OPENAI_API_KEY`. You can follow [this guide](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety), or set `ENV["OPENAI_API_KEY"]` to the value of your API key in the Julia REPL. To keep your API key secure, **do not** save its value within this repository.
 
+## Tutorial
+
+The `tutorial` folder contains a notebook that provides a conceptual introduction to CLIPS. This notebook can be run in Julia for VSCode (`tutorial/tutorial.jl`), or in Jupyter (`tutorial/tutorial.ipynb`).
+
+You can also run  the notebook using Google Colab via [this URL](https://colab.research.google.com/github/probcomp/CLIPS.jl/blob/master/tutorial/tutorial_colab.ipynb), provided that you install Julia on Colab by following the instructions in [this template](https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb).
+
 ## Repository Structure
 
 This repository contains code for the multi-agent Doors, Keys & Gems domain in the `doors-keys-gems` folder, and code for our VirtualHome experiments in `virtual-home`. For each domain, there is a:
