@@ -8,6 +8,7 @@ using GenParticleFilters: softmax
 include("src/utils.jl")
 include("src/plan_io.jl")
 include("src/heuristics.jl")
+include("src/utterances.jl")
 include("src/inference.jl")
 include("src/assistance.jl")
 
