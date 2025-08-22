@@ -12,7 +12,7 @@ Using CLIPS, you can build assistive agents that infer the goals of humans from 
 
 This repository contains a Julia implementation of CLIPS built using the [Gen.jl](https://github.com/probcomp/Gen.jl) probabilistic programming system, the [PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl) planning library, and the [InversePlanning.jl](https://github.com/probcomp/InversePlanning.jl) library for Bayesian inverse planning.
 
-For more details about CLIPS, see [our paper](https://arxiv.org/abs/2402.17930):
+CLIPS was originally developed under the [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/) and the [MIT Computational Cognitive Science lab](https://cocosci.mit.edu/). For more details about CLIPS, see [our paper](https://arxiv.org/abs/2402.17930):
 
 > Tan Zhi-Xuan, Lance Ying, Vikash Mansinghka, and Joshua B. Tenenbaum. 2024. **Pragmatic Instruction Following and Goal Assistance via Cooperative Language-Guided Inverse Planning.** In Proc. of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024).
 
