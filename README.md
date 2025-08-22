@@ -24,7 +24,7 @@ To set up the environment for this project, first open the Julia REPL in this di
 
 ```julia-repl
 activate .
-add https://github.com/probcomp/InversePlanning.jl.git#release-0.0.1 https://github.com/probcomp/GenGPT3.jl.git
+add GenGPT3.jl https://github.com/cosilab/InversePlanning.jl.git#release-0.0.1
 instantiate
 ```
 
